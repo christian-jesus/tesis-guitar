@@ -230,3 +230,14 @@ body {
 .navbar-button:hover {
     background-color: #45a049; /* Color de fondo al pasar el ratón */
 }
+
+
+/* Estilo para el botón de Registrarse */
+.navbar-button.register-button {
+    background-color: #ffa200; /* Color de fondo diferente para el botón de Registrarse */
+  }
+  
+  .navbar-button.register-button:hover {
+    background-color: #f2cb30; /* Color al pasar el ratón para el botón de Registrarse */
+  }
+  
